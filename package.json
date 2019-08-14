@@ -1,6 +1,6 @@
 {
   "name": "pretty-bootstrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pretty Styling for Bootstrap",
   "main": "index.js",
   "scripts": {
