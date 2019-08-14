@@ -1,0 +1,19 @@
+{
+  "name": "pretty-bootstrap",
+  "version": "1.0.0",
+  "description": "Pretty Styling for Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmyers273/pretty-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmyers273/pretty-bootstrap/issues"
+  },
+  "homepage": "https://github.com/tmyers273/pretty-bootstrap#readme"
+}

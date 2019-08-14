@@ -21,3 +21,7 @@
 }
 
 .btn-white { @include pretty-button-variant(#fff, rgba($border, 0.25)) }
+
+.btn-pretty-primary {
+  @include pretty-button-variant($active, $active)
+}
