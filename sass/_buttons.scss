@@ -25,3 +25,8 @@
 .btn-pretty-primary {
   @include pretty-button-variant($active, $active)
 }
+
+.btn-link {
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
